@@ -27,11 +27,11 @@ It's a e-commerce website cloned by us. We are team of six members and we have c
 - At last Open the `index.html` with Live server
 
 # Snapshots
-![Screenshot (1298)](https://miro.medium.com/max/1400/1*ch7XPkBJop-QFZrgvlNkSw.jpeg)
+<img src="https://drive.google.com/file/d/1Wi7RGzs9hCeqlocr3FzMblJ8KKj9USD7/view?usp=sharing">
 
-![Screenshot (1300)](https://miro.medium.com/max/1400/1*6IWK5S1RHrTW_gndu6C6hQ.jpeg)
+<img src="https://drive.google.com/file/d/1fxD1w86QKGIbSXDSafCgsPNxuB6XkQb5/view?usp=sharing">
 
-![Screenshot (1301)](https://miro.medium.com/max/1400/1*ELM_5wuEukjXURQNf1Rd4A.jpeg)
+<img src="https://drive.google.com/file/d/1lqA8XNvAyvBc_87Ps4TVX5ORfRyU0Dbr/view?usp=sharing">
 
-![Screenshot (1302)](https://miro.medium.com/max/1400/1*OKNXTrl47UWXs2WWNBFydg.jpeg)
+
 
